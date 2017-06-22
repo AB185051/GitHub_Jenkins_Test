@@ -1,0 +1,12 @@
+export STG_DB_NAME=ETL_META
+export UTIL_DB_NAME=ETL_META
+export TGT_DB_NAME=ETL_META
+export VIEW_DB_NAME=ETL_META
+export SCRIPT_DIR=/var/lib/jenkins/jobs/ETL-Flow/workspace/data01/home/projects/scripts
+export DATA_DIR=/var/lib/jenkins/jobs/ETL-Flow/workspace/data01/home/projects/data
+export LOG_DIR=/var/lib/jenkins/jobs/ETL-Flow/workspace/data01/home/projects/logs
+export TEST_CASE_DIR=/var/lib/jenkins/jobs/ETL-Flow/workspace/data01/home/projects/test_case_execution
+export SYS_IP=153.65.14.249
+export USR_NM=abhishekb
+export PASSWD=abhishekb
+export SESSIONS=10
